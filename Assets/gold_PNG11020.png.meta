@@ -1,0 +1,82 @@
+fileFormatVersion: 2
+guid: ab2f6943d52b0fd4c9049fd9364cc720
+timeCreated: 1472560859
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName: {}
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 3
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites: []
+    outline:
+    - - {x: 443.5, y: 885}
+      - {x: 553.79395, y: 871.098}
+      - {x: 657.1578, y: 830.2657}
+      - {x: 747.0967, y: 765.0686}
+      - {x: 817.9595, y: 679.60333}
+      - {x: 865.2936, y: 579.24}
+      - {x: 886.1249, y: 470.2848}
+      - {x: 879.1444, y: 359.58377}
+      - {x: 844.7908, y: 254.09262}
+      - {x: 785.22253, y: 160.43982}
+      - {x: 704.1826, y: 84.50989}
+      - {x: 606.76306, y: 31.073853}
+      - {x: 499.08505, y: 3.4891968}
+      - {x: 387.91443, y: 3.4892883}
+      - {x: 280.23645, y: 31.074005}
+      - {x: 182.81696, y: 84.51019}
+      - {x: 101.77719, y: 160.44012}
+      - {x: 42.209045, y: 254.09299}
+      - {x: 7.85553, y: 359.58417}
+      - {x: 0.8751831, y: 470.28525}
+      - {x: 21.706573, y: 579.2405}
+      - {x: 69.04086, y: 679.6038}
+      - {x: 139.90378, y: 765.069}
+      - {x: 229.84279, y: 830.266}
+      - {x: 333.20667, y: 871.0982}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
